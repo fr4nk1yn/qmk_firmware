@@ -12,8 +12,8 @@ enum {
 
 // Tap Dance definitions
 tap_dance_action_t tap_dance_actions[] = {
-    [TD_R_1] = ACTION_TAP_DANCE_DOUBLE(KC_R, KC_1),
-    [TD_F_2] = ACTION_TAP_DANCE_DOUBLE(KC_F, KC_2),
+    [TD_R_1] = ACTION_TAP_DANCE_DOUBLE(KC_R, KC_T),
+    [TD_F_2] = ACTION_TAP_DANCE_DOUBLE(KC_F, KC_G),
 	//[TD_LCTL_MO] = ACTION_TAP_DANCE_LAYER_MOVE(KC_LCTL, 1),
 };
 
